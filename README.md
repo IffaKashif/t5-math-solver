@@ -3,7 +3,7 @@
 This project demonstrates fine-tuning a T5 model (`t5-small`) on the GSM8K dataset to solve grade-school-level math word problems with detailed multi-step reasoning.
 
 ## 📚 Dataset
-- [GSM8K](https://huggingface.co/datasets/gsm8k): Contains math questions and step-by-step solutions.
+- [GSM8K](https://huggingface.co/datasets/openai/gsm8k): Contains math questions and step-by-step solutions.
 
 ## Features
 - Text-to-text model (T5) trained on `question -> step-by-step answer`
